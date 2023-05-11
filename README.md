@@ -1,5 +1,5 @@
-# vuedemo
-
+# vue-vr-drag
+基于vue的拖拽生成项目，包含图表拖拽生成，支持拉伸删除，背景是vr全景图
 ## Project setup
 ```
 npm install
